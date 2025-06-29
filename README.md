@@ -1,1 +1,1 @@
-### Everything is explained in the good_luck.ipynb file.
+### see my_luck.ipynb
